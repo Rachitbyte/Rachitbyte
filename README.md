@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👨‍💻 Rachit | Computer Engineering Student
 
-<!--
-**Rachitbyte/Rachitbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Computer Engineering Student at LDRP-ITR
+💡 Focused on building strong fundamentals and real-world development skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔭 Currently working on improving **problem-solving skills** and building practical projects
+* 🌱 Learning **Backend Development (Node.js)** and **Core Computer Science concepts**
+* 👯 Open to collaborating on **beginner-friendly projects and open-source contributions**
+* 🤝 Looking for guidance in **Data Structures & Algorithms and system design basics**
+* 💬 Ask me about **C, C++, Java, and Web Development fundamentals**
+* ⚡ Fun fact: I prioritize **logic-building over memorizing code**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+C • C++ • Java 
+
+**Web Development:**
+HTML • CSS • JavaScript • jQuery
+
+**Tools & Design:**
+Figma • Git • GitHub
+
+---
+
+## 📌 Current Focus
+
+* Strengthening **DSA (Data Structures & Algorithms)**
+* Building **backend-driven projects**
+* Writing cleaner, more efficient code
+
+---
+
+
+
+## 🎯 Goals
+
+* 🚀 Secure a **software development internship**
+* 📚 Master **DSA and backend development**
+* 🌍 Contribute to **open-source projects**
+
+---
+
+⭐ *Focused on consistent growth and real skill-building.*
