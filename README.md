@@ -1,6 +1,5 @@
 # 👨‍💻 Rachit | Computer Engineering Student
 
-🎓 2nd Year Computer Engineering Student at LDRP-ITR
 💡 Focused on building strong fundamentals and real-world development skills
 
 ---
