@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 * 🔭 Currently working on improving **problem-solving skills** and building practical projects
-* 🌱 Learning **Backend Development (Node.js)** and **Core Computer Science concepts**
+* 🌱 Learning **Backend Development (Django)** and **Core Computer Science concepts**
 * 👯 Open to collaborating on **beginner-friendly projects and open-source contributions**
 * 🤝 Looking for guidance in **Data Structures & Algorithms and system design basics**
 * 💬 Ask me about **C, C++, Java, and Web Development fundamentals**
@@ -18,13 +18,13 @@
 ## 🛠️ Tech Stack
 
 **Languages:**
-C • C++ • Java 
+C • C++ • Java • Python
 
 **Web Development:**
 HTML • CSS • JavaScript • jQuery
 
 **Tools & Design:**
-Figma • Git • GitHub
+Git • GitHub
 
 ---
 
