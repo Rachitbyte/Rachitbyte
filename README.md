@@ -42,7 +42,6 @@ Git • GitHub
 
 * 🚀 Secure a **software development internship**
 * 📚 Master **DSA and backend development**
-* 🌍 Contribute to **open-source projects**
 
 ---
 
